@@ -1,4 +1,6 @@
 ### Executive Summary
 
 ### File Compression
-The reason people compress there files because there are many advantages. Compressing files can make the file smaller in size and you can also send the file to a differnt computer faster.
+The reason people compress there files because there are many advantages. Compressing files can make the file smaller in size and you can also send the file to a differnt computer faster. When i compressed the svg file the file size went from 295 kb to 130 kb. When you compress a SVG file the the file quality doesnt change. If you compress a JPG file the file size doesn't decrease as much as the SVG and by compressing a JPG file you lose some of the  quality of the file.
+### Python OOP
+The shark class has two main functions associated with it. one for swimming and one for being awesome. You can take a shark class and use to make an object or an instance of it. Using a shark class can give you the blueprint for an object. When you make a shark pattern when you run a program with the program wont get returned. The constructor method is used to initialize data. It is run as soon as an object of a class is instantiated. Classes are simmilar to blueprints or a prototype that you can use to make an object. You can define classes by using the class keyword. An object is an instance of a class. The object helps the methods run the program. The meaning of "instantiate an object from a class" is that when an object is instanted the variables and methods of the object will run the class.
